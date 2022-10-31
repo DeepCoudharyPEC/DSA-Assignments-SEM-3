@@ -1,1 +1,1 @@
-# DSA AssignmentS SEM3
+# DSA Assignments SEM3
